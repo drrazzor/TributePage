@@ -1,0 +1,21 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	background-color: #DAD7D9;
+}
+
+#page-heading{
+	margin-top: 20px;
+	margin-bottom: 5px;
+	padding:0px;
+	font-family: 'Bree Serif', serif;
+	font-size: 48px;
+	color: #3D3739;
+}
+
+.tag-line{
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 28px;
+	margin: 5px 0 5px 0;
+}
