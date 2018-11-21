@@ -10,12 +10,36 @@ body{
 	margin-bottom: 5px;
 	padding:0px;
 	font-family: 'Bree Serif', serif;
-	font-size: 48px;
+	font-size: 58px;
 	color: #3D3739;
 }
 
 .tag-line{
-	font-family: 'Gloria Hallelujah', cursive;
+	font-family: 'Righteous', cursive;
 	font-size: 28px;
-	margin: 5px 0 5px 0;
+	margin: 20px 0 20px 0;
 }
+
+#image{
+	justify-content: center;
+	border-radius: 50px;
+	transition: 1s;
+}
+#image:hover {
+	transform: scale(0.9);
+}
+
+#img-caption{
+	padding: 10px 20px;
+	font-size: 28px;
+	font-family: 'Courgette', cursive;
+}
+
+#tribute-info{
+	text-indent: 75px;
+	text-align: justify;	
+	font-family: 'Zilla Slab', serif;
+	font-size: 20px;
+
+}
+
